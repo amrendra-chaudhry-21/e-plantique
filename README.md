@@ -1,6 +1,6 @@
 # Plantique Store
 
-[Plantique](https://plantique-v1.netlify.app/) - An E-Commerce website for serene and lovely plants.
+[Plantique]() - An E-Commerce website for serene and lovely plants.
 
 
 ## How to install and run locally?
